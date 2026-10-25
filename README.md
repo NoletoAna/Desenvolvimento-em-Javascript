@@ -55,7 +55,3 @@ O projeto também pode ser executado no [Playcode.io](https://playcode.io), plat
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
-## Autora
-
-Ana Carolina Noleto dos Santos — Cuiabá - MT, 2026.
